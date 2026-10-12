@@ -2,15 +2,12 @@
   "title": "Add-On of the Month",
   "description": "Our featured add-on service this month.",
   "slides": [
-    { "image": "living-room.jpg", "alt": "Living room" },
-    { "image": "kitchen.jpg", "alt": "Kitchen" },
-    { "image": "bedroom.jpg", "alt": "Bedroom" },
-    { "image": "bathroom.jpg", "alt": "Bathroom" },
-    { "image": "laundry.jpg", "alt": "Laundry room" },
-    { "image": "garage.jpg", "alt": "Garage" },
-    { "image": "attic.jpg", "alt": "Attic" },
-    { "image": "chimney.jpg", "alt": "Chimney" },
-    { "image": "outside.jpg", "alt": "Home exterior" }
+    { "image": "Smart_Home.jpg", "alt": "Smart Home" },
+    { "image": "Smart_Audio.png", "alt": "Smart Audio" },
+    { "image": "Smart Security.jpg", "alt": "Smart Security" },
+    { "image": "Smart Lighting", "alt": "Smart Lighting" },
+    { "image": "Furniture_Assembly.jpg", "alt": "Furniture Assembly" },
+    { "image": "Christmas_Light.jpg", "alt": "Christmas Light" }
   ]
 }
 
