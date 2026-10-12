@@ -1,6 +1,8 @@
 
 {
-  "images": [
+  "title": "HomePerfect Blog",
+  "description": "Home improvement projects and inspiration",
+  "slider": [
     "living-room.jpg",
     "outside.jpg",
     "kitchen.jpg",
@@ -11,4 +13,3 @@
     "garage.jpg"
   ]
 }
-
